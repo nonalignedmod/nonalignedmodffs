@@ -1,0 +1,23 @@
+ideas = {
+
+country = {
+		id = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus			
+
+			modifier = {
+				
+
+			}
+		}
+	}
